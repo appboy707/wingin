@@ -1,0 +1,16 @@
+[18-Mar-2022 10:47:31 UTC] PHP Warning:  include(system/setting.php): failed to open stream: No such file or directory in /home/nuh7nfs4ud9m/public_html/net/net/index.php on line 12
+[18-Mar-2022 10:47:31 UTC] PHP Warning:  include(): Failed opening 'system/setting.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nuh7nfs4ud9m/public_html/net/net/index.php on line 12
+[18-Mar-2022 10:47:33 GMT] PHP Notice:  Undefined variable: namerand in /home/nuh7nfs4ud9m/public_html/net/net/index.php on line 36
+[18-Mar-2022 10:47:43 UTC] PHP Notice:  Undefined index: firstname in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 38
+[18-Mar-2022 10:47:43 UTC] PHP Notice:  Undefined index: lastname in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 38
+[18-Mar-2022 10:47:43 UTC] PHP Notice:  Undefined index: zipCode in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 50
+[18-Mar-2022 10:47:43 UTC] PHP Notice:  Undefined index: phone in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 74
+[18-Mar-2022 10:47:43 UTC] PHP Notice:  Undefined index: exp_date in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 88
+[18-Mar-2022 10:58:16 UTC] PHP Notice:  Undefined index: firstname in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 38
+[18-Mar-2022 10:58:16 UTC] PHP Notice:  Undefined index: lastname in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 38
+[18-Mar-2022 10:58:16 UTC] PHP Notice:  Undefined index: zipCode in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 50
+[18-Mar-2022 10:58:16 UTC] PHP Notice:  Undefined index: phone in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 74
+[18-Mar-2022 10:58:16 UTC] PHP Notice:  Undefined index: exp_date in /home/nuh7nfs4ud9m/public_html/net/net/account.php on line 88
+[18-Mar-2022 11:08:56 UTC] PHP Warning:  include(system/setting.php): failed to open stream: No such file or directory in /home/nuh7nfs4ud9m/public_html/home/net/index.php on line 12
+[18-Mar-2022 11:08:56 UTC] PHP Warning:  include(): Failed opening 'system/setting.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/nuh7nfs4ud9m/public_html/home/net/index.php on line 12
+[18-Mar-2022 11:08:58 GMT] PHP Notice:  Undefined variable: namerand in /home/nuh7nfs4ud9m/public_html/home/net/index.php on line 36
